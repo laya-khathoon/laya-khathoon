@@ -8,7 +8,7 @@
 
 ## ☕ About me
 
-I'm a **final-year BTech Computer Science student** from Kerala, India, graduating in **2027**. I learn by building: I pick an idea, ship it, and put a live demo next to every project. Better late than never - I started building seriously in my final year, and I haven't stopped since.
+I'm a **final-year BTech Computer Science student**, graduating in **2027**. I learn by building: I pick an idea, ship it, and put a live demo next to every project. Better late than never - I started building seriously in my final year, and I haven't stopped since.
 
 - 📚 Preparing for **GATE 2027** and applying for **internships**
 - 🤖 Most of what I build is **AI/ML** - RAG chatbots, prediction models, a neural network written from scratch
