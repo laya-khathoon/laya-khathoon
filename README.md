@@ -19,6 +19,7 @@ I'm a **final-year BTech Computer Science student**, graduating in **2027**. I l
 
 | Project | What it does | Live demo |
 | --- | --- | --- |
+| **FirstJob Agent** - Internship Finder | Upload a resume, get matching internships with a fit score, apply links, and a drafted application. Python + Streamlit + Gemini. | [Try it](https://firstjob-agent.streamlit.app/) |
 | **PageSage** - RAG Documentation Chatbot | Upload a PDF, ask questions, get answers with page sources. React + FastAPI + LangChain + ChromaDB. | [Try it](https://rag-documentation-chatbot.vercel.app/) |
 | **Customer Churn Prediction** | Predicts which customers are likely to leave, using XGBoost with a Streamlit app. | [Try it](https://customer-churn-prediction-q5kxzl9kzqgf6putmyc6yt.streamlit.app/) |
 | **Student Performance Analysis** | Analyzes and predicts student scores from study habits and background factors. | [Try it](https://laya-student-performance.streamlit.app/) |
