@@ -37,6 +37,16 @@ I'm a **final-year BTech Computer Science student**, graduating in **2027**. I l
 
 </div>
 
+## 🐍 My contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/laya-khathoon/laya-khathoon/output/github-contribution-grid-snake.svg" alt="A snake eating my GitHub contribution graph"/>
+
+</div>
+
+_It grows a little longer every day I commit._
+
 ## 🧰 Toolbox
 
 <div align="center">
