@@ -25,6 +25,7 @@ I'm a **final-year BTech Computer Science student**, graduating in **2027**. I l
 | **Student Performance Analysis** | Analyzes and predicts student scores from study habits and background factors. | [Try it](https://laya-student-performance.streamlit.app/) |
 | **Neural Network Studio** | A neural network built from scratch in pure NumPy - forward prop, backprop, gradient descent - with a playground app. | [Try it](https://neuralnetwork-l4tpqwmfgvw2sgamrfhmu9.streamlit.app/) |
 | **MindScribe** 🛠️ | Offline-first mobile app that turns voice notes into organized, searchable notes with on-device AI (in progress). | Repo only for now |
+| **AgentForge** 🛠️ | Local AI agent in Python that chats with an Ollama model in the terminal; tools coming next (in progress). | Repo only for now |
 
 ## 📊 GitHub in numbers
 
