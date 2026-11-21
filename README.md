@@ -11,6 +11,7 @@
 I'm a **final-year BTech Computer Science student**, graduating in **2027**. I learn by building: I pick an idea, ship it, and put a live demo next to every project. Better late than never - I started building seriously in my final year, and I haven't stopped since.
 
 - 📚 Preparing for **GATE 2027** and applying for **internships**
+- 🏅 Certificates: **Walmart Global Tech - Advanced Software Engineering** (Forage), **One Million Prompters**, **YUVA AI for All** (FutureSkills Prime)
 - 🤖 Most of what I build is **AI/ML** - RAG chatbots, prediction models, a neural network written from scratch
 - 🌱 Currently finishing **MindScribe** (offline voice-notes app), building **AgentForge** (local autonomous agent), and exploring **deepfake audio detection**
 - 🔁 Committing daily and learning in public
