@@ -13,7 +13,8 @@ I'm a **final-year BTech Computer Science student**, graduating in **2027**. I l
 - 📚 Preparing for **GATE 2027** and applying for **internships**
 - 🏅 Certificates: **Walmart Global Tech - Advanced Software Engineering** (Forage), **One Million Prompters**, **YUVA AI for All** (FutureSkills Prime)
 - 🤖 Most of what I build is **AI/ML** - RAG chatbots, prediction models, a neural network written from scratch
-- 🌱 Currently finishing **MindScribe** (offline voice-notes app), building **AgentForge** (local autonomous agent), and exploring **deepfake audio detection**
+- 🌱 Currently finishing **MindScribe** (offline voice-notes app), building **AgentForge** (local AI agent with safe, test-covered tools), and exploring **deepfake audio detection**
+- 🏆 November submissions: **Code for a Billion**, **Forge-a-thon Round 1**, and the **FOSSEE eSim** screening task - results pending
 - 🔁 Committing daily and learning in public
 
 ## 🚀 Things I've shipped
@@ -24,6 +25,7 @@ I'm a **final-year BTech Computer Science student**, graduating in **2027**. I l
 | **PageSage** - RAG Documentation Chatbot | Upload a PDF, ask questions, get answers with page sources. React + FastAPI + LangChain + ChromaDB. | [Try it](https://rag-documentation-chatbot.vercel.app/) |
 | **Customer Churn Prediction** | Predicts which customers are likely to leave, using XGBoost with a Streamlit app. | [Try it](https://customer-churn-prediction-q5kxzl9kzqgf6putmyc6yt.streamlit.app/) |
 | **Student Performance Analysis** | Analyzes and predicts student scores from study habits and background factors. | [Try it](https://laya-student-performance.streamlit.app/) |
+| **Pharmacy Management System** - group project | Flask + MySQL web app for pharmacy stock, suppliers, sales and billing, deployed on Vercel with a TiDB Cloud database. | [Try it](https://pharmacy-management-gray.vercel.app) |
 | **Neural Network Studio** | A neural network built from scratch in pure NumPy - forward prop, backprop, gradient descent - with a playground app. | [Try it](https://neuralnetwork-l4tpqwmfgvw2sgamrfhmu9.streamlit.app/) |
 | **MindScribe** 🛠️ | Offline-first mobile app that turns voice notes into organized, searchable notes with on-device AI (in progress). | Repo only for now |
 | **AgentForge** 🛠️ | Local AI agent in Python that chats with an Ollama model in the terminal; tools coming next (in progress). | Repo only for now |
