@@ -11,19 +11,28 @@
 I'm a **final-year BTech Computer Science student**, graduating in **2027**. I learn by building: I pick an idea, ship it, and put a live demo next to every project. Better late than never - I started building seriously in my final year, and I haven't stopped since.
 
 - 📚 Preparing for **GATE 2027** and applying for **internships**
-- 🏅 Certificates: **Walmart Global Tech - Advanced Software Engineering** (Forage), **One Million Prompters**, **YUVA AI for All** (FutureSkills Prime)
 - 🤖 Most of what I build is **AI/ML** - RAG chatbots, prediction models, a neural network written from scratch
 - 🌱 Currently finishing **MindScribe** (offline voice-notes app), building **AgentForge** (local AI agent with safe, test-covered tools), and exploring **deepfake audio detection**
 - 🏆 November submissions: **Code for a Billion**, **Forge-a-thon Round 1**, and the **FOSSEE eSim** screening task - results pending
 - 🔁 Committing daily and learning in public
 
+## 🏅 Certificates
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Walmart%20Advanced%20SWE%20Job%20Sim-Completed-B4632A" alt="Walmart Global Tech Advanced Software Engineering job simulation on Forage - completed"/>
+<img src="https://img.shields.io/badge/One%20Million%20Prompters-Completed-B4632A" alt="One Million Prompters AI course - completed"/>
+<img src="https://img.shields.io/badge/YUVA%20AI%20for%20All-Completed-B4632A" alt="YUVA AI for All on FutureSkills Prime - completed"/>
+
+</div>
+
 ## 🚀 Things I've shipped
 
 | Project | What it does | Live demo |
 | --- | --- | --- |
-| **FirstJob Agent** - Internship Finder | Upload a resume, get matching internships with a fit score, apply links, and a drafted application. Python + Streamlit + Gemini. | [Try it](https://firstjob-agent.streamlit.app/) |
+| **FirstJob Agent** - Internship Finder | Upload a resume, get matching internships with a fit score, apply links, and a drafted application. Python + Streamlit + Gemini. | [Try it](https://firstjob-agent.vercel.app/) |
 | **PageSage** - RAG Documentation Chatbot | Upload a PDF, ask questions, get answers with page sources. React + FastAPI + LangChain + ChromaDB. | [Try it](https://rag-documentation-chatbot.vercel.app/) |
-| **Customer Churn Prediction** | Predicts which customers are likely to leave, using XGBoost with a Streamlit app. | [Try it](https://customer-churn-prediction-q5kxzl9kzqgf6putmyc6yt.streamlit.app/) |
+| **Customer Churn Prediction** | Predicts which customers are likely to leave, using XGBoost, with a live web app. | [Try it](https://customer-churn-prediction-ashy.vercel.app/) |
 | **Student Performance Analysis** | Analyzes and predicts student scores from study habits and background factors. | [Try it](https://laya-student-performance.streamlit.app/) |
 | **Pharmacy Management System** - group project | Flask + MySQL web app for pharmacy stock, suppliers, sales and billing, deployed on Vercel with a TiDB Cloud database. | [Try it](https://pharmacy-management-gray.vercel.app) |
 | **Neural Network Studio** | A neural network built from scratch in pure NumPy - forward prop, backprop, gradient descent - with a playground app. | [Try it](https://neuralnetwork-l4tpqwmfgvw2sgamrfhmu9.streamlit.app/) |
