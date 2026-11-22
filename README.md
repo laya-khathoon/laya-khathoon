@@ -16,15 +16,7 @@ I'm a **final-year BTech Computer Science student**, graduating in **2027**. I l
 - 🏆 November submissions: **Code for a Billion**, **Forge-a-thon Round 1**, and the **FOSSEE eSim** screening task - results pending
 - 🔁 Committing daily and learning in public
 
-## 🏅 Certificates
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Walmart%20Advanced%20SWE%20Job%20Sim-Completed-B4632A" alt="Walmart Global Tech Advanced Software Engineering job simulation on Forage - completed"/>
-<img src="https://img.shields.io/badge/One%20Million%20Prompters-Completed-B4632A" alt="One Million Prompters AI course - completed"/>
-<img src="https://img.shields.io/badge/YUVA%20AI%20for%20All-Completed-B4632A" alt="YUVA AI for All on FutureSkills Prime - completed"/>
-
-</div>
 
 ## 🚀 Things I've shipped
 
